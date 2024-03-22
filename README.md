@@ -28,7 +28,7 @@ The data sets are stored in the 'zippedData' folder which were sourced from:
 - The Numbers
     - tn.movie_budgets.csv
 
-# Importing the relevant libraries
+# 2.1 Importing the relevant libraries
 
 # Your code here - remember to use markdown cells for comments as well!
 # importing libraries to load the data sets
@@ -39,23 +39,24 @@ The data sets are stored in the 'zippedData' folder which were sourced from:
 
 %matplotlib inline
 
-# Data Visualization
-![alt text](<Screenshot 2024-03-22 at 3.19.01 AM.jpg>)
+# 3 Data Visualization
+![alt text](<Screenshot Bar1.jpg>)
 
 This bar graph shows Average Worldwide Gross by Primary Genre. The genres are listed on the y-axis, and their corresponding average worldwide gross earnings are on the x-axis. 
 
-![alt text](<Screenshot 2024-03-22 at 3.19.21 AM 2.jpg>)
+![alt text](<Screenshot Bar2.jpg>)
+
 This is a bar graph that shows the Average ROI by Budget Tier. indicated by the tallest bar. As the budget tiers increase to 'Medium', 'High', and 'Very High', the ROI decreases. This pattern implies that investing in lower-budget movies might offer the best return on investment, while higher-budget movies may not always yield proportionally higher returns.
 
-![alt text](<Screenshot 2024-03-22 at 3.19.26 AM 2.jpg>)
+![alt text](<Screenshot Scatter plot.jpg>)
 This is a scatter plot for production budget vs. ROI (Return on Investment). This shows the correlation between the two. The correlation suggests that there is a very weak negative linear relationship between the production budget and ROI. In practical terms, this means that as the production budget increases, there is a slight tendency for ROI to decrease.
 
-# Conclusions 
+# 4 Conclusions 
 From the findings we found that investing in lower-budget movies might offer the best return on investment, while higher-budget movies may not always yield proportionally higher returns.
 
 We also found that some genres, typically those like Adventure, Action, or Fantasy, generate higher revenues on average compared to genres like Drama or Documentary. This suggests that movies in these high-grossing genres might be a safer bet for attracting a large audience and generating significant box office earnings.
 
-# Reccomendations
+# 5 Reccomendations
 Based on the insights gathered from the visualizations, here are some actionable recommendations for Microsoft's new movie studio:
 
 -Focus on High-Grossing Genres:
