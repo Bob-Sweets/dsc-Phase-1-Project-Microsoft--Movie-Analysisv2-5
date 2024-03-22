@@ -65,4 +65,4 @@ Based on the insights gathered from the visualizations, here are some actionable
 
    -Allocate investments in 'Low' and 'Medium' budget tiers where ROI is highest. While blockbuster budgets may attract attention, they do not necessarily guarantee a proportionally higher return on investment.
 -Diverse Portfolio Approach: 
-   -Since there's no strong correlation, it's advisable not to rely solely on the budget as an indicator of profitability. The studio should consider a diverse portfolio of films, with a mix of budgets, to spread risk.
+   -Since there's no strong correlation, it's advisable not to rely only on the budget as an indicator of profitability. The studio should consider a diverse portfolio of films, with a mix of budgets, to spread risk.
